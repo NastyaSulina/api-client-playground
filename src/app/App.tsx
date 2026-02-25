@@ -1,5 +1,7 @@
+import { ClientsTable } from '@/components/ClientsTable'
+
 function App() {
-    return <></>
+    return <ClientsTable />
 }
 
 export default App
